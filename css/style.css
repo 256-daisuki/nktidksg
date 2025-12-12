@@ -1,15 +1,25 @@
 body {
-    margin: 0;
+    margin: 10px;
 }
 
 h2 {
+    margin-left: 1%;
     padding-left: 0.5em;
     color: #252525;
     border-left: solid 5px #1c6ecd;
 }
 
 h3 {
+    margin-left: 2%;
     padding-left: 0.5em;
     color: #252525;
     border-left: solid 3px #0085c9;
+}
+
+.h2-element {
+    margin-left: 1.5%;
+}
+
+.h3-element {
+    margin-left: 2.5%;
 }
