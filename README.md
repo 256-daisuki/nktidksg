@@ -1,2 +1,2 @@
 # nktidksg
-nktidksg.com
+ここは <a href="https://nktidksg.com">NKTIDKSG.com</a>のサイト用のリポジトリである。
