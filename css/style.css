@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+h2 {
+    padding-left: 0.5em;
+    color: #252525;
+    border-left: solid 5px #1c6ecd;
+}
+
+h3 {
+    padding-left: 0.5em;
+    color: #252525;
+    border-left: solid 3px #0085c9;
+}
